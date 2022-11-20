@@ -107,3 +107,6 @@ git commit -m "master commit 13"
 echo "Adding Commit graph and FILE.md commit 14" >> README.md
 git add *
 git commit -m "master commit 14"
+
+-- Push to remote master
+git push -u origin master
